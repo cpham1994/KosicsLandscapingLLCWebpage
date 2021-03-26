@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "../KosicsLandscapingLLC/node_modules/bulma/css/bulma-rtl.css",
               "src/styles.css"
             ],
             "scripts": []
