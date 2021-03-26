@@ -1,0 +1,23 @@
+.footer {
+  background-color: lightslategray;
+  background-size: cover;
+  background-position: center center;
+}
+
+.level-left {
+  vertical-align: middle;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.level-center {
+  vertical-align: middle;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.level-right {
+  vertical-align: middle;
+  font-weight: bold;
+  font-size: larger;
+}
